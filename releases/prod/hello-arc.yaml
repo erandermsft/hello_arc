@@ -16,4 +16,4 @@ spec:
     replicaCount: 2
     env:
       name: MESSAGE
-      value: You might think that you lift, but do you even?
+      value: Do you even lift? 
