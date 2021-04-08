@@ -16,4 +16,4 @@ spec:
     replicaCount: 2
     env:
       name: MESSAGE
-      value: Kubernetes ARC Demo for Sandvik!
+      value: Kubernetes ARC Demo!
